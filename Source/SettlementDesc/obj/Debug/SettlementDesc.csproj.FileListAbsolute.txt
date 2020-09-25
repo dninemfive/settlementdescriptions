@@ -1,0 +1,6 @@
+C:\Users\dninemfive\Documents\mods\Rimworld\F1.0\Settlement Descriptions\Assemblies\SettlementDesc.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\F1.0\Settlement Descriptions\Assemblies\SettlementDesc.pdb
+C:\Users\dninemfive\Documents\mods\Rimworld\F1.0\Settlement Descriptions\Source\SettlementDesc\obj\Debug\SettlementDesc.csprojResolveAssemblyReference.cache
+C:\Users\dninemfive\Documents\mods\Rimworld\F1.0\Settlement Descriptions\Source\SettlementDesc\obj\Debug\SettlementDesc.csproj.CoreCompileInputs.cache
+C:\Users\dninemfive\Documents\mods\Rimworld\F1.0\Settlement Descriptions\Source\SettlementDesc\obj\Debug\SettlementDesc.dll
+C:\Users\dninemfive\Documents\mods\Rimworld\F1.0\Settlement Descriptions\Source\SettlementDesc\obj\Debug\SettlementDesc.pdb

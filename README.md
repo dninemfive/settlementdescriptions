@@ -1,0 +1,2 @@
+# Settlement Descriptions
+![version](https://img.shields.io/badge/RimWorld-1.2-brightgreen.svg) ![modVersion](https://img.shields.io/badge/Mod%20version-0.0.0-orange.svg) ![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
